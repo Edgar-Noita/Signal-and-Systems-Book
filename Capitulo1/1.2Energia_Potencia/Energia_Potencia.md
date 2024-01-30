@@ -2,6 +2,7 @@
 ## Energía y Potencia
 
 La energía de una señal se define de la siguiente manera
+
 $$ E=\int_{-\infty}^{\infty}|x(t)|^{2}dt $$
 
 donde |⋅| es la función valor absoluto. Para una señal periódica, su energía es un valor infinito. La potencia de una señal, por otro lado, se define como
