@@ -11,7 +11,7 @@ $$ P=\frac{1}{T}\int_{T}\left|x(t)\right|^{2}dt$$
 
 Esta última cantidad está definida para señales periódica. Para señales no periódica, su potencia es 0, dado que su periodo es infinito.
 
-##Ejemplo teórico
+## Ejemplo teórico
 
 Determine la potencia y energía de una señal senoidal x(t)=sin⁡(2π/T t).
 Aplicando la definición de potencia anteriormente dado
