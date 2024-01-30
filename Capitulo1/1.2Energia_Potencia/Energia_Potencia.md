@@ -2,7 +2,7 @@
 ## Energía y Potencia
 
 La energía de una señal se define de la siguiente manera
-$$ E=\int_{-\infty}^{\infty}\left|x(t)\right|^{2}dt$$
+$$ E=\int_{-\infty}^{\infty}\left|x(t)\right|^{2}dt $$
 
 donde |⋅| es la función valor absoluto. Para una señal periódica, su energía es un valor infinito. La potencia de una señal, por otro lado, se define como
 
@@ -16,9 +16,9 @@ Determine la potencia y energía de una señal senoidal x(t)=sin⁡(2π/T t).
 Aplicando la definición de potencia anteriormente dado
 $$P=\frac{1}{T}\int_{0}^{T}sin^2⁡(2\pi/T t)dt$$
 Utilizando la identidad del ángulo doble se obtiene la siguiente expresión  
-$$P=\frac{1}{T}\int_{0}^{T}\frac{1-cos(4\pi/T t}{2}dt$$
+$$P=\frac{1}{T}\int_{0}^{T}\frac{1-cos(4\pi/T t)}{2}dt$$
 Separando las integrales, la función anterior se puede escribir de la siguiente manera
-$$P=\frac{1}{T}\int_{0}^{T}\frac{1}{2}-\frac{1}{T}\int_{0}^{T}\frac{cos(4\pi/T t}{2}dt$$
+$$P=\frac{1}{T}\int_{0}^{T}\frac{1}{2}-\frac{1}{T}\int_{0}^{T}\frac{cos(4\pi/T t)}{2}dt$$
 La primera integral es simplemente la integral de una constante, mientras que la segunda integral es cero, dado que estamos integrando sobre dos ciclos completos. Por tanto
 P=1/2
 
