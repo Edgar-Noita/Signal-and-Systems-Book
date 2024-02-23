@@ -1,1 +1,3 @@
 ## Linealidad
+
+$x=y$
