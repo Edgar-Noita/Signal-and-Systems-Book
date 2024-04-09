@@ -44,7 +44,7 @@ $$ E=\frac{4}{3}t^{3}|_0^{1}=\frac{4}{3} $$
 La potencia de esta señal es cero, dado que su periodo T tiende a infinito  (es una señal aperiódica) 
 
 ## Ejercicio para pensar
-\begin{itemize}
-\item En la vida real, existen señales periódicas? Qué implicaría la existencia de una señal periódica en términos de energía?
-\item Cómo se puede obtener una señal de potencia infinita? Sería posible esto en la vida real? 
-\end{itemize}
+
+- En la vida real, existen señales periódicas? Qué implicaría la existencia de una señal periódica en términos de energía?
+- Cómo se puede obtener una señal de potencia infinita? Sería posible esto en la vida real? 
+
