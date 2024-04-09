@@ -37,6 +37,7 @@ $$x=\left\{\begin{matrix}
 
 Aplicando la definción de energía, se obtiene
 $$ E=\int_{0}^{1}\left| 2t \right|^2dt $$
+
 Desarrollando la integral
 
 $$ E=\frac{4}{3}t^{3}|_0^{1}=\frac{4}{3} $$
