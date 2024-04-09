@@ -25,4 +25,20 @@ P=1/2
 
 La energía de una señal senoidal es infinita.
 
+## Ejemplo teórico
 
+Calcule la potencia y energía de una señal que está definida de la siguiente forma
+
+$$x=\left\{\begin{matrix}
+\\ 
+2t, 0<=t<=1\\
+0, para \ otros
+\end{matrix}\right.$$
+
+Aplicando la definción de energía, se obtiene
+$$ E=\int_{0}^{1}\left| 2t \right|^2dt $$
+Desarrollando la integral
+
+$$ E=\frac{4}{3}t^{3}|_0^{1}=\frac{4}{3} $$
+
+La potencia de esta señal es cero, dado que su periodo T tiende a infinito  (es una señal aperiódica) 
