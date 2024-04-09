@@ -36,7 +36,8 @@ $$x=\left\{\begin{matrix}
 \end{matrix}\right.$$
 
 Aplicando la definción de energía, se obtiene
-$$ E=\int_{0}^{1}\left| 2t \right|^2dt $$
+
+$$ E=\int_{0}^{1}\left|2t \right|^2dt $$
 
 Desarrollando la integral
 
